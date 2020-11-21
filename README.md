@@ -4,8 +4,8 @@ This repository is made for GIS Project done by Group_3, GIS Course, Politecnico
 Group Members:
 
   - Ahmad Ataeighalehghasemi - ahmad.ataeighalehghasemi@mail.polimi.it
-  - MUSTAFA ABDALLA ELDOUMA MOHAMED - mustafa.abdalla@mail.polimi.it
-  - MAZIN ALI HASSAN SAEED - mazin.ali@mail.polimi.it
+  - Mustafa Abdalla Eldouma Mohamed - mustafa.abdalla@mail.polimi.it
+  - Mazin Ali Hassan Saeed - mazin.ali@mail.polimi.it
 
 Professor:
   - Maria Antonia Brovelli
